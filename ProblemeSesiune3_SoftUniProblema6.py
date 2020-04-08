@@ -1,0 +1,5 @@
+first_name = (input())
+last_name = (input())
+country = (input())
+city = (input())
+print(f'{first_name} {last_name} from {country} - {city}!')
